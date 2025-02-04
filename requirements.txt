@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-groq
+ipykernel
+python-dotenv
+transformers
+torch
+streamlit
+sentence-transformers
+pypdf
+faiss-cpu
+pyttsx3
+pyaudio
