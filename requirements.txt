@@ -13,5 +13,4 @@ streamlit
 sentence-transformers
 pypdf
 faiss-cpu
-pyttsx3
-pyaudio
+
