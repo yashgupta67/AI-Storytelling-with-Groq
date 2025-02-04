@@ -1,5 +1,5 @@
 import streamlit as st
-import pyttsx3  # For text-to-speech
+## import pyttsx3  # For text-to-speech
 import os
 import time
 from threading import Thread
