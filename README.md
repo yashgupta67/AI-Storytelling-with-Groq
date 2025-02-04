@@ -13,6 +13,9 @@ The Full Storyline Generator is a web-based application built with **Streamlit**
 2. **Story Generation**: After clicking the "Generate Full Story" button, the app processes these inputs and combines them into a cohesive narrative.
 3. **Download**: The generated story can then be downloaded as a `.txt` file.
 
+## Try It Out! :
+[AI-Storytelling-with-Groq](https://ai-storytelling-with-groq-yashgupta67.streamlit.app/)
+
 ## Technologies Used:
 - **Streamlit**: For creating the interactive web application.
 - **LangChain**: For language model integration and prompt management.
@@ -33,3 +36,4 @@ To run this application, you'll need to have the following dependencies installe
    ```bash
    git clone https://github.com/yourusername/full-storyline-generator.git
    cd full-storyline-generator
+   
